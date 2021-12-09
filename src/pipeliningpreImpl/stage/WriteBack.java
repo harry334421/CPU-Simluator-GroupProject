@@ -22,5 +22,4 @@ public class WriteBack implements Runnable {
         }
         System.out.println("Thread Id: " + Thread.currentThread().getId() + " - writeback end");
     }
-
 }
